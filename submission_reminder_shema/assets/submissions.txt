@@ -1,0 +1,10 @@
+Student,Assignment,Submission Status
+Chinemerem,Shell Navigation,Not Submitted
+Chiagoziem,Git,Submitted
+Divine,Shell Navigation,Not Submitted
+Anissa,Shell Basics,Submitted
+Claude,Shell Navigation,Submitted
+Angelique,Shell Navigation,Submitted
+peter,Shell Navigation,Not Submitted
+Alice,Shell Navigation Submitted
+Nshuti,Shell Navigation,Not Submitted
